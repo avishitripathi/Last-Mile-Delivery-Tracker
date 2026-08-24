@@ -1,0 +1,28 @@
+html {
+  background: #0b0f12;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+::selection {
+  background: #c7ff4d;
+  color: #0b0f12;
+}
+
+a,
+button,
+input,
+select {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid #c7ff4d;
+  outline-offset: 2px;
+}
