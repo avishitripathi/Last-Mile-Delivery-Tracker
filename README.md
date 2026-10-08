@@ -17,7 +17,7 @@ A full-stack **Last-Mile Delivery Management System** that helps customers, deli
 * 💰 View delivery charges before confirmation
 * 🏷️ Support for **B2B & B2C** orders
 * 💳 Support for **Prepaid & COD**
-* 📍 Track order status
+* 📍 Track the order status
 * 🕐 View complete tracking timeline
 * 🔔 Receive delivery notifications
 * 🔄 Reschedule failed deliveries
