@@ -350,8 +350,8 @@ An administrator can manually select a delivery agent.
 
 The system identifies suitable available agents based on:
 
-* 🟢 Agent availability
 * 📍 Current location
+* 🟢 Agent availability
 * 🗺️ Delivery zone
 
 The system prioritizes an available agent who is closest to the delivery requirement.
